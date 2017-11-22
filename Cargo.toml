@@ -1,0 +1,6 @@
+[package]
+name = "fsociety"
+version = "0.1.0"
+authors = ["Jesse Tomchak <jtomchak@gmail.com>"]
+
+[dependencies]
